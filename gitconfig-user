@@ -1,3 +1,11 @@
+[user]
+	# Name used in commit messages.
+	name = Domonkos Czinke
+	# Email used in commit messages.
+	email = seayou@gmail.com
+[shell]
+	# Default SSH username.
+	username = domonkoscinke
 [github]
 	# GitHub username for command-line tools.
 	user = cu12
