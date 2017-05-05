@@ -1,5 +1,6 @@
 brew 'docker-machine'
 brew 'dnsmasq'
+brew 'docker'
 brew 'docker-machine'
 brew 'git'
 brew 'jq'
