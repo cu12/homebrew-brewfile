@@ -1,3 +1,4 @@
+brew 'coreutils'
 brew 'docker-machine'
 brew 'dnsmasq'
 brew 'docker'
