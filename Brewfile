@@ -1,4 +1,5 @@
 brew 'coreutils'
+brew 'docker-compose'
 brew 'docker-machine'
 brew 'dnsmasq'
 brew 'docker'
